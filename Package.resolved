@@ -1,0 +1,15 @@
+{
+  "originHash" : "5696ed5ae607e768384a3c67cf40c6e90090e5de63c24e87712a298ebf5aaa5c",
+  "pins" : [
+    {
+      "identity" : "example-package-figlet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/example-package-figlet",
+      "state" : {
+        "branch" : "main",
+        "revision" : "166eef46de0b094d6d1966e749f727d6c4beba0e"
+      }
+    }
+  ],
+  "version" : 3
+}
